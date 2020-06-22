@@ -1,0 +1,2 @@
+step 1:- run command ==> npm install react-jinke-music-player --save
+step 2:- npm start
